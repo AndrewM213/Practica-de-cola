@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\practicando\practicando\bin\Debug\net8.0\practicando.exe
+C:\Users\andre\source\repos\practicando\practicando\bin\Debug\net8.0\practicando.deps.json
+C:\Users\andre\source\repos\practicando\practicando\bin\Debug\net8.0\practicando.runtimeconfig.json
+C:\Users\andre\source\repos\practicando\practicando\bin\Debug\net8.0\practicando.dll
+C:\Users\andre\source\repos\practicando\practicando\bin\Debug\net8.0\practicando.pdb
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.AssemblyInfo.cs
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.dll
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\refint\practicando.dll
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.pdb
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\practicando.genruntimeconfig.cache
+C:\Users\andre\source\repos\practicando\practicando\obj\Debug\net8.0\ref\practicando.dll
